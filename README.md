@@ -1,2 +1,2 @@
 # hyperzchat
-A very cool live chat with encrypted groups and codes!
+A very cool live chat with encrypted accounts, chats, GAMES, and more!
